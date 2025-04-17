@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Phoenix-Domain
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+-  Front End Developer in Training
+- 🌱 I’m currently Perfecting HTML, CSS and Web Design
 - 💞️ I’m looking to collaborate on Front End Projects
-- 📫 How to reach me ...
+- 📫 You can reach me on my Instagram Page @phoe_nix_do_main
 - 😄 Pronouns: He...duhhh😂
 - ⚡ Fun fact: ...
 
