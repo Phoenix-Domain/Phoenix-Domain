@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Phoenix-Domain
 -  Front End Developer in Training
 - 🌱 I’m currently Perfecting HTML, CSS and Web Design
+- 🌱 I'm also learning JavaScript
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 You can reach me on my Instagram Page @phoe_nix_do_main
 - 😄 Pronouns: He...duhhh😂
