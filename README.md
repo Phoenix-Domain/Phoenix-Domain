@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phoenix-Domain
+- 👋 Hi, I’m Batubo Victory
 -  Full-Stack Developer in Training
 - 🌱 I’m currently Perfecting HTML, CSS and Web Design
 - 🌱 I'm also learning JavaScript
