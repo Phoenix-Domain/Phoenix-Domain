@@ -19,6 +19,8 @@
 
 - Lifelong learner, always exploring new technologies and best practices.
 - I thrive in collaborative environments and enjoy helping others grow.
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Phoenix-Domain/github-readme-quotes)
 
 ---
@@ -28,7 +30,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Phoenix-Domain)
 
-![Phoenix-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Domain&show=reviews&show_icons=true&theme=radical)[![GitHub Streak](https://streak-stats.demolab.com/?user=Phoenix-Domain&theme=dark)](https://git.io/streak-stats)
+![Phoenix-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Domain&show=reviews&show_icons=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com/?user=Phoenix-Domain&theme=radical)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-Domain&theme=onedark)](https://github.com/Phoenix-Domain/github-profile-trophy)
 
