@@ -16,6 +16,7 @@
 
 ![🛠️Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&icons=html5,css3,javascript,bootstrap,vite,figma,react)
 
+![](https://komarev.com/ghpvc/?username=Phoenix-Domain)
 
 ---
 
