@@ -14,8 +14,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript, Bootstrap, React, Vite
-- **Design:** Figma
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&icons=html5,css3,javascript,bootstrap,vite,figma,react)
+
 
 ---
 
