@@ -29,7 +29,7 @@
 
 ### 📈 GitHub Stats
 
-![Phoenix-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Domain&show=reviews&show_icons=true&theme=radical)]
+![Phoenix-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Domain&show=reviews&show_icons=true&theme=radical)
 
 
 
