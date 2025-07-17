@@ -14,13 +14,12 @@
 
 ###  Tech Stack
 
-![🛠️Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&icons=html5,css3,javascript,bootstrap,vite,figma,react)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=html5%2Chtml5%2Cf6ea34%3Bjavascript%2Cjavascript%2Cfff800%3Bcss3%2Ccss3%2C0096ff%3Bbootstrap%2Cbootstrap%2C2f5af5%3Breact%2Creact%2C003ffa%3Bvite%2Cvite%2Caf00ff%3B&line2=figma%2Cfigma%2Cb117c7%3B)
 
 ![](https://komarev.com/ghpvc/?username=Phoenix-Domain)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-Domain&theme=onedark)](https://github.com/Phoenix-Domain/github-profile-trophy)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Phoenix-Domain/github-readme-quotes)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Phoenix-Domain" frameborder="0"></iframe>
 
 
 ---
