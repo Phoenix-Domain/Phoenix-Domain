@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Batubo Victory
+# 👋 Hi, I'm Victory Batubo
 
 ## 💻 Software Engineer | FrontEnd Developer
 
@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript, Bootstrap
+- **Languages & Frameworks:** HTML, CSS, JavaScript, Bootstrap, React, Vite
 - **Design:** Figma
 
 ---
