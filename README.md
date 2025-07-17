@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Victory Batubo
+# 👋 Hi, I'm Batubo Victory
 
 ## 💻 Software Engineer | FrontEnd Developer
 
 ---
+
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&width=700&line1=html5%2Chtml5%2Cf6ea34%3Bjavascript%2Cjavascript%2Cfff800%3Bcss3%2Ccss3%2C0096ff%3Bbootstrap%2Cbootstrap%2C2f5af5%3Breact%2Creact%2C003ffa%3Bvite%2Cvite%2Caf00ff%3B&line2=figma%2Cfigma%2Cb117c7%3B)
+
+---
 
 ### 🧑‍💻 About Me
 
@@ -12,7 +15,6 @@
 - Open to new opportunities.
 - Dedicated coder, enthusiastic learner, calm, patient, and love helping others.
 
----
 ---
 
 ### 🚀 What Drives Me
