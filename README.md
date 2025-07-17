@@ -31,6 +31,7 @@
 ### 📈 GitHub Stats
 
 ![Phoenix-Domain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix-Domain&show=reviews&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Phoenix-Domain&theme=dark)](https://git.io/streak-stats)
 
 
 
