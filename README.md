@@ -23,7 +23,7 @@
 - I thrive in collaborative environments and enjoy helping others grow.
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Phoenix-Domain/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/Phoenix-Domain/github-readme-quotes)
 
 ---
 
