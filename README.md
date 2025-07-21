@@ -35,9 +35,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Phoenix-Domain&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-Domain&theme=radical)](https://github.com/Phoenix-Domain/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Phoenix-Domain&theme=radical&hide_border=true)](https://github.com/Phoenix-Domain/github-profile-trophy)
 
 
 ---
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api/?hide_border=true&theme=radical)
 _Thanks for visiting my profile!_
