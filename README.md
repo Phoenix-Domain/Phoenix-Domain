@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Batubo Victor
+# 👋 Hi, I'm Batubo Victory 
 
 ## 💻 Software Engineer | FrontEnd Developer
 
